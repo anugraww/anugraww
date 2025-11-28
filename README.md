@@ -128,5 +128,5 @@ Repo:
 <p align="center">
   <em>“Build with passion. Design with aesthetic. Deploy with confidence.”</em>  
   <br>
-  <strong>— GOXDILL Developer —</strong>
+  <strong>— Adi Putra Anugrah —</strong>
 </p>
