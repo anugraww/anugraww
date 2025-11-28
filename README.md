@@ -39,7 +39,7 @@ I build tools that look **modern, neon, clean, and premium**, powered by the GOX
 
 ---
 
-# 🎖 Custom Developer Badges
+# 🎖 Developer Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/GOXDILL-DEVELOPER-00E5FF?style=for-the-badge&logo=star&logoColor=white" />
