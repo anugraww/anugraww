@@ -74,7 +74,6 @@ I build tools that look **modern, neon, clean, and premium**, powered by the GOX
 
 ---
 
-# 🌈 GOXDILL Gradient Banner  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=GOXDILL%20ULTRA%20PREMIUM&fontSize=42&fontAlign=50&animation=twinkling&fontColor=ffffff" />
 </p>
