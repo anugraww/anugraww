@@ -5,7 +5,7 @@
 
 <!-- PROFILE NEON PHOTO -->
 <p align="center">
-  <img src="https://i.imgur.com/f7Z4Ffr.png" width="180" style="border-radius:50%; box-shadow:0 0 25px #00f7ff;">
+  <img src="[https://i.imgur.com/f7Z4Ffr.png](https://i.ibb.co.com/60pwxWPP/8a897be52b006313794cbaf5362cd8da.jpg)" width="180" style="border-radius:50%; box-shadow:0 0 25px #00f7ff;">
 </p>
 
 <!-- GOXDILL LOGO TEXT -->
@@ -17,9 +17,8 @@
 
 # 🌌 About Me
 
-Hi, I'm **Anugraw**, a developer who mixes:
+Hi, I'm **Anugraww**, a developer who mixes:
 
-- ✨ *Aesthetic UI*  
 - ⚙️ *Server Automation*  
 - ☁️ *Cloud Engineering*  
 - 🧩 *Panel & Script Builder*  
